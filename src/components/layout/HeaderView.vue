@@ -32,7 +32,7 @@ const toggleSideNavbar = () => {
       <!-- Logo -->
       <v-avatar size="50" color="transparent" class="mr-2 ml-5">
         <v-img
-          src="/public/images/MasaoLMSIcon.png"
+          src="../../../public/images/MasaoLMSIcon.png"
           alt="Caraga State University Logo"
           contain
         ></v-img>
