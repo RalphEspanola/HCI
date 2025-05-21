@@ -31,11 +31,7 @@ const toggleSideNavbar = () => {
     <div class="d-flex align-center">
       <!-- Logo -->
       <v-avatar size="50" color="transparent" class="mr-2 ml-5">
-        <v-img
-          src="../../../public/images/MasaoLMSIcon.png"
-          alt="Caraga State University Logo"
-          contain
-        ></v-img>
+        <v-img src="/images/MasaoLMSIcon.png" alt="Caraga State University Logo" contain></v-img>
       </v-avatar>
 
       <!-- University Name - Hide on small screens -->
